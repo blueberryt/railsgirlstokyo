@@ -1,4 +1,4 @@
 # Rails Girls Tokyo
 
-#### Tutorial
+## Tutorial
 - carrierwaveで画像をアップロードできるようにしました！
